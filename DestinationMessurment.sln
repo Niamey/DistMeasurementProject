@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMessurment.Service.Core", "DestinationMessurment\DestinationMessurment.Service.Core.csproj", "{5E9080A2-3D08-4E6E-8406-189FC8317CCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMessurment.Service.Common", "DestinationMessurment.Service.Common\DestinationMessurment.Service.Common.csproj", "{95325304-AE67-4821-9F1C-BC3579EF2201}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceMeasurement.API", "DistanceMeasurement.API\DistanceMeasurement.API.csproj", "{5FB29341-F273-4FA1-9491-BADC80FD7D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.WebApi.Service", "Core.WebApi.Service\Core.WebApi.Service.csproj", "{A6077EB2-3C51-4CD8-80EA-B10C4E18779E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9080A2-3D08-4E6E-8406-189FC8317CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9080A2-3D08-4E6E-8406-189FC8317CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9080A2-3D08-4E6E-8406-189FC8317CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9080A2-3D08-4E6E-8406-189FC8317CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95325304-AE67-4821-9F1C-BC3579EF2201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95325304-AE67-4821-9F1C-BC3579EF2201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95325304-AE67-4821-9F1C-BC3579EF2201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95325304-AE67-4821-9F1C-BC3579EF2201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB29341-F273-4FA1-9491-BADC80FD7D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB29341-F273-4FA1-9491-BADC80FD7D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB29341-F273-4FA1-9491-BADC80FD7D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB29341-F273-4FA1-9491-BADC80FD7D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6077EB2-3C51-4CD8-80EA-B10C4E18779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6077EB2-3C51-4CD8-80EA-B10C4E18779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6077EB2-3C51-4CD8-80EA-B10C4E18779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6077EB2-3C51-4CD8-80EA-B10C4E18779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED18FF4F-0FC0-43F0-BC8B-818D31D2CE39}
+	EndGlobalSection
+EndGlobal

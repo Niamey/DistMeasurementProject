@@ -1,0 +1,17 @@
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.csproj.AssemblyReference.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.AssemblyInfoInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.AssemblyInfo.cs
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.csproj.CoreCompileInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DistanceMeasurement.API.deps.json
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DistanceMeasurement.API.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DistanceMeasurement.API.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DestinationMessurment.Service.Common.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DestinationMessurment.Service.Core.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DestinationMessurment.Service.Core.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\bin\Debug\net6.0\DestinationMessurment.Service.Common.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.csproj.CopyComplete
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\refint\DistanceMeasurement.API.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\DistanceMeasurement.API.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DistanceMeasurement.API\obj\Debug\net6.0\ref\DistanceMeasurement.API.dll

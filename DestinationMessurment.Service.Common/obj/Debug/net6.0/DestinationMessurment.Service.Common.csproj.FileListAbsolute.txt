@@ -1,0 +1,12 @@
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\bin\Debug\net6.0\DestinationMessurment.Service.Common.deps.json
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\bin\Debug\net6.0\DestinationMessurment.Service.Common.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\bin\Debug\net6.0\DestinationMessurment.Service.Common.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.csproj.AssemblyReference.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.AssemblyInfoInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.AssemblyInfo.cs
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\refint\DestinationMessurment.Service.Common.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\DestinationMessurment.Service.Common.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment.Service.Common\obj\Debug\net6.0\ref\DestinationMessurment.Service.Common.dll

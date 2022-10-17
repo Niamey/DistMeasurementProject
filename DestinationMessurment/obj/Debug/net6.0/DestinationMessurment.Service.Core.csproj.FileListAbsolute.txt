@@ -1,0 +1,15 @@
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.csproj.AssemblyReference.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.AssemblyInfoInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.AssemblyInfo.cs
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.csproj.CoreCompileInputs.cache
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\bin\Debug\net6.0\DestinationMessurment.Service.Core.deps.json
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\bin\Debug\net6.0\DestinationMessurment.Service.Core.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\bin\Debug\net6.0\DestinationMessurment.Service.Core.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\bin\Debug\net6.0\DestinationMessurment.Service.Common.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\bin\Debug\net6.0\DestinationMessurment.Service.Common.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.csproj.CopyComplete
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\refint\DestinationMessurment.Service.Core.dll
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\DestinationMessurment.Service.Core.pdb
+C:\Users\okornieva.appwell\source\repos\DestinationMessurment\DestinationMessurment\obj\Debug\net6.0\ref\DestinationMessurment.Service.Core.dll
